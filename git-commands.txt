@@ -1,1 +1,10 @@
-test
+[alias]
+	ad = add .
+	cm = commit
+	cmm = commit -m
+	st = status
+	lg = log
+	lgo = log --oneline
+	co = checkout
+	cob = checkout -b
+	rlg = reflog
